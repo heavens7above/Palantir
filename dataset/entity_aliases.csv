@@ -1,0 +1,124 @@
+alias_id,canonical_person_id,name_variant,source_document,confidence_score
+A0001,P0083,MohanIyer,Phone Registration,0.816
+A0002,P0083,Mohan I.,Hotel Register,0.912
+A0003,P0083,Mohan Iyer,Hotel Register,0.931
+A0004,P0083,mohan iyer,Bank KYC,0.607
+A0005,P0008,Priya Iyer,Court Filing,0.839
+A0006,P0008,P. Iyer,Hotel Register,0.902
+A0007,P0069,"Rao, Priya",Hotel Register,0.978
+A0008,P0069,PriyaRao,Bank KYC,0.705
+A0009,P0005,G. Nair,Phone Registration,0.968
+A0010,P0005,Geeta N.,Court Filing,0.902
+A0011,P0002,ArjunSingh,FIR,0.606
+A0012,P0002,"Singh, Arjun",Hotel Register,0.754
+A0013,P0097,Rohit T.,Phone Registration,0.962
+A0014,P0097,RohitTiwari,Phone Registration,0.618
+A0015,P0097,Rohit Tiwari,Hotel Register,0.865
+A0016,P0009,rajesh gupta,Court Filing,0.919
+A0017,P0009,RajeshGupta,Hotel Register,0.766
+A0018,P0009,Rajesh G.,FIR,0.742
+A0019,P0009,"Gupta, Rajesh",Court Filing,0.862
+A0020,P0068,RajeshSingh,Hotel Register,0.719
+A0021,P0068,Rajesh Singh,Bank KYC,0.852
+A0022,P0068,"Singh, Rajesh",Phone Registration,0.791
+A0023,P0084,Rahul S.,Hotel Register,0.698
+A0024,P0084,Rahul Shah,FIR,0.963
+A0025,P0020,Deepak J.,FIR,0.677
+A0026,P0020,DeepakJoshi,FIR,0.937
+A0027,P0020,"Joshi, Deepak",Phone Registration,0.99
+A0028,P0020,Deepak Joshi,Bank KYC,0.756
+A0029,P0054,Kavita Verma,Phone Registration,0.865
+A0030,P0054,KavitaVerma,Bank KYC,0.604
+A0031,P0054,K. Verma,Court Filing,0.782
+A0032,P0054,Kavita V.,Court Filing,0.703
+A0033,P0001,Rohit Verma,FIR,0.594
+A0034,P0001,RohitVerma,FIR,0.847
+A0035,P0001,"Verma, Rohit",Court Filing,0.885
+A0036,P0052,Anita S.,Hotel Register,0.862
+A0037,P0052,anita singh,Hotel Register,0.888
+A0038,P0052,AnitaSingh,Hotel Register,0.657
+A0039,P0052,Anita Singh,FIR,0.826
+A0040,P0024,Anil Patel,Hotel Register,0.831
+A0041,P0024,"Patel, Anil",Court Filing,0.814
+A0042,P0099,RohitVerma,FIR,0.797
+A0043,P0099,Rohit V.,FIR,0.879
+A0044,P0099,rohit verma,Court Filing,0.693
+A0045,P0016,A. Reddy,Hotel Register,0.909
+A0046,P0016,amit reddy,Court Filing,0.898
+A0047,P0016,AmitReddy,Phone Registration,0.635
+A0048,P0016,Amit Reddy,FIR,0.777
+A0049,P0085,RohitShah,Hotel Register,0.601
+A0050,P0085,"Shah, Rohit",Court Filing,0.96
+A0051,P0085,rohit shah,Bank KYC,0.637
+A0052,P0085,Rohit Shah,Court Filing,0.701
+A0053,P0079,karan mehta,Bank KYC,0.911
+A0054,P0079,Karan Mehta,Bank KYC,0.819
+A0055,P0079,KaranMehta,Phone Registration,0.68
+A0056,P0078,Arjun M.,Hotel Register,0.817
+A0057,P0078,ArjunMishra,Phone Registration,0.555
+A0058,P0096,Amit R.,Bank KYC,0.79
+A0059,P0096,AmitReddy,Bank KYC,0.62
+A0060,P0096,amit reddy,Hotel Register,0.564
+A0061,P0050,"Kumar, Mohan",Court Filing,0.99
+A0062,P0050,Mohan Kumar,Court Filing,0.694
+A0063,P0098,Sunita R.,Phone Registration,0.774
+A0064,P0098,S. Rao,Bank KYC,0.802
+A0065,P0098,sunita rao,Phone Registration,0.709
+A0066,P0072,"Iyer, Divya",Court Filing,0.799
+A0067,P0072,DivyaIyer,FIR,0.57
+A0068,P0072,Divya Iyer,Hotel Register,0.605
+A0069,P0072,D. Iyer,Bank KYC,0.599
+A0070,P0062,sunita joshi,Bank KYC,0.99
+A0071,P0062,S. Joshi,Court Filing,0.72
+A0072,P0062,SunitaJoshi,Bank KYC,0.669
+A0073,P0089,"Reddy, Sanjay",Bank KYC,0.844
+A0074,P0089,S. Reddy,Bank KYC,0.786
+A0075,P0089,sanjay reddy,Court Filing,0.679
+A0076,P0089,SanjayReddy,Court Filing,0.795
+A0077,P0006,AnitaVerma,Hotel Register,0.769
+A0078,P0006,Anita V.,Court Filing,0.874
+A0079,P0007,rohit patel,Court Filing,0.787
+A0080,P0007,"Patel, Rohit",Hotel Register,0.572
+A0081,P0040,Kavita J.,FIR,0.7
+A0082,P0040,KavitaJoshi,Hotel Register,0.758
+A0083,P0040,Kavita Joshi,FIR,0.987
+A0084,P0021,"Verma, Geeta",FIR,0.561
+A0085,P0021,Geeta Verma,Bank KYC,0.551
+A0086,P0021,geeta verma,FIR,0.66
+A0087,P0021,Geeta V.,Bank KYC,0.936
+A0088,P0032,Priya R.,Bank KYC,0.788
+A0089,P0032,Priya Reddy,Bank KYC,0.608
+A0090,P0032,"Reddy, Priya",Court Filing,0.688
+A0091,P0091,"Shah, Divya",FIR,0.873
+A0092,P0091,divya shah,FIR,0.953
+A0093,P0091,D. Shah,Court Filing,0.777
+A0094,P0091,DivyaShah,Hotel Register,0.84
+A0095,P0053,rekha verma,Phone Registration,0.833
+A0096,P0053,R. Verma,Phone Registration,0.943
+A0097,P0053,Rekha Verma,Bank KYC,0.928
+A0098,P0053,RekhaVerma,Phone Registration,0.564
+A0099,P0100,sunita reddy,Court Filing,0.773
+A0100,P0100,Sunita Reddy,Bank KYC,0.601
+A0101,P0100,S. Reddy,Bank KYC,0.858
+A0102,P0100,Sunita R.,Bank KYC,0.731
+A0103,P0029,kavita joshi,Court Filing,0.994
+A0104,P0029,"Joshi, Kavita",Hotel Register,0.901
+A0105,P0029,KavitaJoshi,Court Filing,0.772
+A0106,P0036,sunita mehta,Phone Registration,0.637
+A0107,P0036,S. Mehta,Bank KYC,0.608
+A0108,P0036,Sunita Mehta,Phone Registration,0.933
+A0109,P0045,DivyaShah,Phone Registration,0.99
+A0110,P0045,divya shah,Phone Registration,0.678
+A0111,P0045,Divya Shah,Hotel Register,0.927
+A0112,P0088,Mohan G.,Court Filing,0.985
+A0113,P0088,"Gupta, Mohan",Hotel Register,0.98
+A0114,P0088,M. Gupta,Bank KYC,0.951
+A0115,P0088,Mohan Gupta,Hotel Register,0.612
+A0116,P0070,Sunita R.,Bank KYC,0.679
+A0117,P0070,Sunita Rao,Court Filing,0.924
+A0118,P0022,Amit Sharma,Hotel Register,0.707
+A0119,P0022,amit sharma,Bank KYC,0.935
+A0120,P0022,A. Sharma,Phone Registration,0.915
+A0121,P0003,Rajesh Kumar,Phone Registration,0.96
+A0122,P0003,rajesh kumar,Court Filing,0.628
+A0123,P0003,R. Kumar,Bank KYC,0.742

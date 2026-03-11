@@ -1,0 +1,387 @@
+edge_id,person_id_a,person_id_b,relationship_type,strength,first_observed,last_observed,source,confirmed
+E0001,P0020,P0079,Contact,Moderate,2020-01-21,2023-06-22,Court Record,Yes
+E0002,P0030,P0082,Financier,Weak,2021-05-06,2023-11-23,Social Media,No
+E0003,P0033,P0088,Financier,Strong,2022-06-06,2023-08-30,Social Media,Yes
+E0004,P0086,P0084,Handler,Moderate,2020-05-07,2024-04-06,CCTV Co-location,No
+E0005,P0010,P0051,Business Partner,Moderate,2021-10-31,2023-11-28,Informant,Yes
+E0006,P0025,P0078,Courier,Strong,2020-04-15,2023-11-15,Informant,No
+E0007,P0042,P0098,Business Partner,Strong,2020-01-14,2023-10-25,Financial Link,Yes
+E0008,P0018,P0042,Handler,Moderate,2022-02-05,2024-06-14,Social Media,No
+E0009,P0027,P0026,Co-accused,Moderate,2022-09-03,2023-04-05,Informant,Yes
+E0010,P0071,P0092,Financier,Weak,2022-11-05,2023-10-05,Social Media,No
+E0011,P0035,P0003,Handler,Strong,2022-07-15,2024-04-20,Financial Link,Yes
+E0012,P0079,P0058,Known Associate,Strong,2020-02-19,2023-05-23,Informant,Yes
+E0013,P0096,P0010,Handler,Weak,2020-02-19,2023-10-19,Informant,Yes
+E0014,P0007,P0068,Contact,Strong,2020-07-24,2024-04-30,Financial Link,Yes
+E0015,P0015,P0066,Financier,Moderate,2021-12-04,2023-06-02,CCTV Co-location,Yes
+E0016,P0021,P0015,Courier,Moderate,2020-12-03,2023-02-05,Court Record,Yes
+E0017,P0015,P0095,Family,Strong,2020-12-11,2023-11-30,CCTV Co-location,No
+E0018,P0072,P0084,Financier,Weak,2020-06-20,2023-03-25,Court Record,Yes
+E0019,P0015,P0089,Financier,Strong,2021-09-29,2024-03-08,Financial Link,Yes
+E0020,P0032,P0072,Business Partner,Strong,2022-08-26,2023-09-16,Financial Link,Yes
+E0021,P0054,P0076,Family,Weak,2022-08-14,2024-04-23,Call Analysis,Yes
+E0022,P0080,P0083,Family,Strong,2021-11-06,2023-08-23,Financial Link,Yes
+E0023,P0008,P0088,Business Partner,Strong,2021-04-28,2024-01-24,Financial Link,No
+E0024,P0099,P0095,Courier,Strong,2021-11-25,2023-03-06,CCTV Co-location,No
+E0025,P0028,P0053,Handler,Moderate,2021-01-11,2024-01-26,Court Record,No
+E0026,P0074,P0008,Financier,Moderate,2021-11-28,2023-07-04,Call Analysis,No
+E0027,P0006,P0075,Known Associate,Moderate,2022-08-29,2023-05-08,Financial Link,Yes
+E0028,P0069,P0036,Family,Moderate,2022-10-09,2024-02-29,Call Analysis,No
+E0029,P0085,P0032,Family,Moderate,2021-05-20,2023-12-04,CCTV Co-location,Yes
+E0030,P0007,P0002,Contact,Strong,2022-07-31,2023-09-18,Call Analysis,No
+E0031,P0061,P0056,Financier,Moderate,2021-07-06,2023-09-22,Social Media,No
+E0032,P0020,P0041,Financier,Strong,2021-04-17,2023-09-10,CCTV Co-location,No
+E0033,P0065,P0049,Financier,Moderate,2022-04-12,2023-03-03,Call Analysis,Yes
+E0034,P0023,P0002,Contact,Moderate,2021-07-16,2024-02-04,CCTV Co-location,Yes
+E0035,P0009,P0091,Contact,Strong,2022-02-04,2023-12-13,Social Media,Yes
+E0036,P0018,P0088,Contact,Moderate,2020-09-18,2023-08-10,Financial Link,Yes
+E0037,P0085,P0016,Known Associate,Strong,2021-05-07,2023-10-22,Financial Link,No
+E0038,P0061,P0003,Co-accused,Moderate,2021-11-28,2023-07-11,Informant,No
+E0039,P0054,P0066,Financier,Moderate,2021-12-30,2023-08-22,Social Media,Yes
+E0040,P0049,P0083,Business Partner,Weak,2021-06-22,2024-01-24,Social Media,No
+E0041,P0030,P0031,Known Associate,Moderate,2022-03-12,2024-02-11,Call Analysis,Yes
+E0042,P0028,P0080,Handler,Strong,2020-08-01,2023-05-04,Informant,Yes
+E0043,P0099,P0100,Known Associate,Moderate,2020-08-28,2023-06-28,CCTV Co-location,Yes
+E0044,P0040,P0067,Business Partner,Moderate,2021-03-03,2023-07-03,CCTV Co-location,Yes
+E0045,P0082,P0007,Courier,Weak,2022-11-18,2023-04-21,Court Record,No
+E0046,P0001,P0068,Financier,Moderate,2021-07-10,2023-06-26,Call Analysis,Yes
+E0047,P0001,P0079,Co-accused,Strong,2022-03-19,2023-02-24,Call Analysis,No
+E0048,P0063,P0071,Handler,Strong,2021-03-15,2023-12-13,Call Analysis,Yes
+E0049,P0013,P0063,Contact,Weak,2021-02-23,2024-06-07,Financial Link,Yes
+E0050,P0059,P0045,Business Partner,Weak,2021-05-05,2023-11-04,Social Media,Yes
+E0051,P0044,P0058,Courier,Strong,2020-08-18,2023-01-13,Financial Link,Yes
+E0052,P0008,P0018,Known Associate,Moderate,2020-01-07,2023-04-12,Informant,Yes
+E0053,P0087,P0021,Business Partner,Moderate,2021-10-21,2023-11-12,Financial Link,Yes
+E0054,P0019,P0034,Courier,Moderate,2021-05-27,2023-01-10,Court Record,Yes
+E0055,P0080,P0037,Family,Moderate,2021-05-14,2024-04-04,Social Media,Yes
+E0056,P0037,P0009,Business Partner,Strong,2022-02-05,2024-06-25,Informant,No
+E0057,P0029,P0054,Family,Moderate,2021-04-20,2023-09-28,Call Analysis,Yes
+E0058,P0011,P0026,Family,Weak,2021-12-16,2024-04-18,Financial Link,Yes
+E0059,P0073,P0048,Co-accused,Weak,2022-07-15,2023-04-27,Social Media,Yes
+E0060,P0030,P0029,Business Partner,Moderate,2022-09-22,2023-05-02,Informant,Yes
+E0061,P0077,P0075,Courier,Strong,2020-05-14,2024-04-24,CCTV Co-location,Yes
+E0062,P0072,P0012,Handler,Moderate,2020-09-21,2023-09-10,Financial Link,Yes
+E0063,P0020,P0086,Business Partner,Moderate,2022-04-10,2023-02-20,Financial Link,Yes
+E0064,P0086,P0082,Known Associate,Moderate,2022-10-12,2023-11-10,Informant,No
+E0065,P0062,P0073,Known Associate,Moderate,2020-06-24,2023-12-25,CCTV Co-location,No
+E0066,P0010,P0030,Contact,Weak,2021-03-03,2023-12-26,Court Record,No
+E0067,P0075,P0058,Contact,Strong,2020-02-03,2024-05-21,Social Media,No
+E0068,P0038,P0013,Contact,Strong,2022-05-06,2024-04-27,Social Media,No
+E0069,P0029,P0079,Co-accused,Moderate,2021-03-26,2023-11-05,Court Record,No
+E0070,P0077,P0076,Financier,Moderate,2021-01-14,2023-01-31,Financial Link,Yes
+E0071,P0027,P0041,Known Associate,Weak,2020-05-06,2023-11-06,Social Media,Yes
+E0072,P0016,P0034,Courier,Strong,2020-07-01,2023-09-06,Social Media,No
+E0073,P0093,P0030,Co-accused,Weak,2021-03-09,2024-06-20,Informant,Yes
+E0074,P0088,P0085,Handler,Strong,2020-10-04,2023-08-09,CCTV Co-location,No
+E0075,P0087,P0089,Known Associate,Strong,2021-07-24,2023-07-21,Informant,No
+E0076,P0015,P0006,Handler,Weak,2022-08-09,2024-02-12,Financial Link,No
+E0077,P0043,P0090,Business Partner,Weak,2021-05-26,2023-01-07,Call Analysis,Yes
+E0078,P0036,P0006,Handler,Weak,2021-04-11,2024-04-24,Court Record,Yes
+E0079,P0017,P0015,Business Partner,Strong,2020-02-11,2024-03-23,Social Media,Yes
+E0080,P0036,P0032,Business Partner,Weak,2021-09-14,2024-06-08,Financial Link,Yes
+E0081,P0078,P0074,Business Partner,Weak,2020-01-01,2024-01-20,Financial Link,Yes
+E0083,P0068,P0041,Family,Weak,2022-05-03,2024-03-05,Court Record,Yes
+E0084,P0086,P0011,Financier,Weak,2022-01-23,2024-05-21,Court Record,Yes
+E0085,P0050,P0068,Business Partner,Weak,2021-04-13,2023-09-16,Financial Link,Yes
+E0086,P0044,P0029,Known Associate,Strong,2021-03-31,2023-04-07,CCTV Co-location,No
+E0087,P0030,P0078,Known Associate,Strong,2022-11-25,2023-06-08,Financial Link,Yes
+E0088,P0047,P0091,Courier,Weak,2021-07-21,2024-05-04,Financial Link,Yes
+E0089,P0022,P0094,Handler,Moderate,2020-08-01,2023-08-28,Social Media,Yes
+E0090,P0054,P0041,Known Associate,Moderate,2022-06-24,2023-07-23,Call Analysis,No
+E0091,P0061,P0090,Known Associate,Strong,2021-05-31,2023-01-11,Financial Link,Yes
+E0092,P0037,P0068,Family,Weak,2020-12-04,2023-12-30,Court Record,Yes
+E0093,P0002,P0056,Handler,Strong,2022-02-20,2024-04-09,Informant,Yes
+E0094,P0009,P0063,Known Associate,Moderate,2022-10-19,2023-11-17,Financial Link,Yes
+E0095,P0074,P0015,Known Associate,Weak,2022-02-24,2023-11-29,Court Record,Yes
+E0096,P0056,P0038,Handler,Weak,2021-06-17,2023-07-20,Call Analysis,Yes
+E0097,P0010,P0095,Financier,Strong,2020-01-03,2023-08-12,Social Media,Yes
+E0098,P0033,P0002,Co-accused,Weak,2020-12-02,2023-05-22,Court Record,No
+E0099,P0029,P0040,Co-accused,Moderate,2021-07-10,2023-11-04,CCTV Co-location,Yes
+E0100,P0055,P0026,Family,Strong,2020-04-01,2024-01-23,Informant,No
+E0101,P0041,P0071,Family,Strong,2021-08-10,2023-10-05,Call Analysis,Yes
+E0102,P0053,P0039,Handler,Moderate,2022-01-25,2023-03-10,CCTV Co-location,Yes
+E0104,P0085,P0074,Known Associate,Strong,2021-04-19,2023-02-21,Call Analysis,Yes
+E0105,P0068,P0065,Co-accused,Moderate,2020-09-16,2023-10-01,CCTV Co-location,Yes
+E0106,P0042,P0097,Family,Moderate,2021-09-27,2023-06-25,Social Media,No
+E0107,P0066,P0019,Family,Weak,2022-09-26,2023-10-08,CCTV Co-location,Yes
+E0109,P0009,P0001,Financier,Moderate,2022-12-22,2024-05-10,Informant,No
+E0110,P0007,P0029,Courier,Moderate,2022-02-10,2023-11-08,CCTV Co-location,Yes
+E0112,P0015,P0052,Courier,Strong,2022-12-07,2023-06-23,Court Record,No
+E0113,P0056,P0073,Contact,Strong,2022-07-18,2023-08-28,CCTV Co-location,No
+E0114,P0041,P0080,Courier,Weak,2022-01-09,2024-04-30,Financial Link,Yes
+E0115,P0086,P0026,Business Partner,Moderate,2020-09-16,2024-02-17,Call Analysis,Yes
+E0116,P0089,P0059,Handler,Strong,2020-05-20,2023-11-17,Informant,Yes
+E0117,P0068,P0016,Family,Weak,2020-06-07,2024-01-13,CCTV Co-location,Yes
+E0118,P0059,P0047,Business Partner,Weak,2021-06-18,2024-01-16,Informant,Yes
+E0119,P0062,P0087,Handler,Strong,2020-03-18,2023-02-28,Financial Link,Yes
+E0120,P0088,P0029,Known Associate,Strong,2022-10-09,2023-02-22,Informant,No
+E0121,P0100,P0074,Courier,Strong,2020-05-18,2024-05-05,Social Media,No
+E0122,P0098,P0031,Known Associate,Strong,2020-09-29,2024-01-18,Court Record,Yes
+E0123,P0077,P0091,Business Partner,Moderate,2022-01-08,2024-04-08,Financial Link,Yes
+E0124,P0023,P0019,Known Associate,Weak,2020-10-03,2024-02-16,Call Analysis,Yes
+E0125,P0059,P0046,Handler,Weak,2022-03-16,2024-06-27,Social Media,Yes
+E0126,P0022,P0008,Business Partner,Weak,2021-07-12,2023-06-02,Financial Link,Yes
+E0127,P0071,P0025,Family,Strong,2022-05-06,2023-03-22,Court Record,No
+E0128,P0035,P0099,Financier,Moderate,2022-09-17,2023-05-28,Informant,No
+E0129,P0045,P0062,Co-accused,Weak,2020-10-01,2023-08-04,Court Record,No
+E0130,P0076,P0038,Handler,Moderate,2022-06-24,2023-03-23,CCTV Co-location,Yes
+E0131,P0061,P0030,Co-accused,Strong,2020-04-09,2023-06-07,Call Analysis,Yes
+E0132,P0096,P0057,Family,Weak,2022-12-05,2023-08-06,Financial Link,Yes
+E0133,P0034,P0002,Co-accused,Weak,2022-06-13,2023-10-23,Court Record,No
+E0134,P0062,P0035,Co-accused,Moderate,2020-06-24,2024-06-27,Call Analysis,Yes
+E0135,P0081,P0058,Courier,Strong,2022-01-30,2023-03-27,CCTV Co-location,Yes
+E0136,P0019,P0013,Courier,Moderate,2021-11-28,2023-05-23,Call Analysis,No
+E0137,P0039,P0015,Financier,Weak,2022-08-31,2024-02-23,Financial Link,No
+E0138,P0053,P0012,Family,Strong,2021-12-17,2023-11-05,Call Analysis,No
+E0139,P0029,P0008,Co-accused,Weak,2022-01-04,2023-08-16,CCTV Co-location,Yes
+E0140,P0043,P0076,Financier,Weak,2022-07-08,2023-07-05,Call Analysis,No
+E0141,P0097,P0090,Financier,Moderate,2020-02-02,2023-01-04,Court Record,Yes
+E0142,P0091,P0097,Handler,Weak,2020-01-05,2023-06-27,Financial Link,Yes
+E0143,P0073,P0063,Co-accused,Strong,2022-04-29,2024-04-19,Call Analysis,Yes
+E0144,P0012,P0006,Courier,Strong,2020-02-15,2023-04-13,Court Record,Yes
+E0145,P0091,P0030,Family,Weak,2020-10-05,2023-06-16,Financial Link,No
+E0146,P0021,P0032,Financier,Strong,2021-09-16,2023-08-18,Financial Link,No
+E0147,P0064,P0093,Handler,Moderate,2021-03-01,2024-03-16,Court Record,Yes
+E0148,P0052,P0005,Known Associate,Moderate,2022-08-31,2023-11-16,Call Analysis,Yes
+E0149,P0011,P0051,Co-accused,Strong,2020-12-04,2023-09-14,CCTV Co-location,No
+E0150,P0049,P0024,Known Associate,Weak,2022-09-25,2023-05-27,CCTV Co-location,No
+E0151,P0069,P0034,Co-accused,Strong,2022-05-25,2023-02-20,Social Media,No
+E0152,P0049,P0090,Family,Moderate,2021-01-24,2023-03-23,Call Analysis,Yes
+E0153,P0013,P0046,Family,Strong,2022-07-30,2023-03-13,Court Record,Yes
+E0154,P0068,P0010,Courier,Moderate,2021-02-13,2023-12-16,Social Media,No
+E0155,P0085,P0069,Financier,Strong,2020-05-09,2024-01-09,Court Record,Yes
+E0156,P0081,P0020,Family,Strong,2020-12-15,2023-08-22,Court Record,Yes
+E0157,P0031,P0035,Known Associate,Strong,2021-07-17,2023-12-06,Call Analysis,No
+E0158,P0011,P0041,Known Associate,Strong,2022-12-26,2023-01-15,Call Analysis,No
+E0159,P0054,P0034,Courier,Weak,2021-10-04,2024-04-02,Court Record,Yes
+E0160,P0076,P0075,Co-accused,Strong,2021-01-13,2023-10-02,Informant,No
+E0161,P0080,P0084,Courier,Strong,2021-06-28,2023-06-24,Social Media,No
+E0162,P0056,P0026,Courier,Strong,2020-01-23,2023-04-16,Financial Link,No
+E0163,P0054,P0049,Co-accused,Weak,2020-03-10,2023-11-24,CCTV Co-location,Yes
+E0164,P0052,P0036,Known Associate,Strong,2021-08-12,2023-10-06,CCTV Co-location,Yes
+E0165,P0095,P0072,Known Associate,Strong,2020-07-04,2024-06-10,Financial Link,Yes
+E0166,P0044,P0047,Business Partner,Weak,2022-02-07,2024-02-09,Court Record,No
+E0167,P0009,P0062,Known Associate,Moderate,2020-11-17,2024-04-14,Financial Link,Yes
+E0168,P0031,P0056,Family,Strong,2022-03-18,2024-03-14,Call Analysis,Yes
+E0169,P0017,P0076,Courier,Weak,2020-05-31,2024-02-25,CCTV Co-location,Yes
+E0170,P0015,P0092,Known Associate,Moderate,2020-05-02,2023-10-30,Court Record,Yes
+E0171,P0096,P0087,Co-accused,Moderate,2020-07-17,2024-05-06,Informant,Yes
+E0172,P0086,P0087,Contact,Weak,2021-02-14,2024-05-26,Informant,Yes
+E0174,P0067,P0049,Handler,Weak,2021-06-20,2024-04-21,Call Analysis,Yes
+E0175,P0020,P0006,Courier,Moderate,2021-08-31,2024-05-20,Court Record,No
+E0176,P0054,P0025,Financier,Strong,2021-07-03,2023-09-13,Call Analysis,No
+E0177,P0090,P0010,Known Associate,Weak,2022-03-04,2023-11-05,Call Analysis,Yes
+E0179,P0042,P0033,Co-accused,Weak,2022-10-30,2024-04-27,Call Analysis,No
+E0180,P0083,P0045,Family,Strong,2020-11-28,2023-05-31,Call Analysis,Yes
+E0181,P0018,P0093,Financier,Strong,2021-03-30,2023-06-27,Financial Link,Yes
+E0182,P0002,P0091,Handler,Strong,2020-02-03,2024-05-24,CCTV Co-location,No
+E0183,P0026,P0068,Co-accused,Moderate,2020-06-12,2024-02-21,Financial Link,Yes
+E0184,P0097,P0019,Financier,Strong,2020-09-29,2024-06-06,Informant,Yes
+E0185,P0040,P0004,Known Associate,Strong,2020-08-18,2023-07-21,Financial Link,Yes
+E0186,P0020,P0062,Courier,Weak,2021-02-27,2023-07-04,Call Analysis,No
+E0187,P0014,P0053,Financier,Strong,2020-03-18,2024-02-02,CCTV Co-location,Yes
+E0188,P0081,P0066,Financier,Moderate,2020-05-09,2023-05-23,Social Media,No
+E0189,P0065,P0055,Courier,Strong,2021-04-28,2023-04-26,Social Media,No
+E0190,P0004,P0042,Co-accused,Weak,2022-07-13,2024-02-05,Social Media,Yes
+E0191,P0085,P0038,Courier,Weak,2021-10-09,2023-01-24,Informant,Yes
+E0192,P0030,P0096,Business Partner,Strong,2021-11-22,2023-08-30,Informant,Yes
+E0193,P0047,P0031,Co-accused,Moderate,2021-06-11,2023-02-15,Social Media,Yes
+E0194,P0084,P0032,Co-accused,Weak,2021-06-28,2023-09-11,Financial Link,No
+E0195,P0042,P0003,Courier,Strong,2022-12-13,2023-10-25,CCTV Co-location,Yes
+E0196,P0028,P0094,Family,Weak,2021-10-25,2023-09-30,Informant,No
+E0197,P0012,P0085,Known Associate,Moderate,2020-01-10,2024-02-08,Informant,Yes
+E0198,P0097,P0040,Financier,Strong,2022-04-12,2024-05-09,Social Media,No
+E0199,P0049,P0066,Known Associate,Moderate,2022-10-21,2024-01-01,Court Record,Yes
+E0200,P0015,P0019,Contact,Weak,2020-07-14,2023-04-16,Social Media,No
+E0201,P0027,P0054,Family,Moderate,2021-04-08,2024-05-23,Call Analysis,No
+E0202,P0084,P0094,Financier,Moderate,2021-09-22,2024-01-01,Informant,No
+E0203,P0044,P0014,Financier,Moderate,2020-07-01,2023-10-12,Financial Link,Yes
+E0204,P0090,P0069,Courier,Weak,2021-09-18,2023-11-19,Call Analysis,No
+E0205,P0040,P0016,Co-accused,Strong,2020-12-14,2023-06-09,CCTV Co-location,No
+E0206,P0009,P0035,Family,Weak,2020-01-19,2023-04-22,Court Record,Yes
+E0207,P0074,P0004,Financier,Weak,2021-09-11,2023-11-12,Court Record,Yes
+E0208,P0086,P0070,Business Partner,Moderate,2021-09-16,2023-11-21,Social Media,No
+E0209,P0093,P0005,Business Partner,Weak,2022-03-23,2023-08-20,CCTV Co-location,Yes
+E0210,P0013,P0075,Contact,Weak,2022-03-27,2023-07-14,CCTV Co-location,No
+E0211,P0035,P0046,Financier,Moderate,2022-01-31,2023-06-12,CCTV Co-location,Yes
+E0212,P0054,P0072,Known Associate,Strong,2021-10-09,2023-09-17,CCTV Co-location,No
+E0213,P0064,P0018,Known Associate,Weak,2022-01-28,2023-02-14,Call Analysis,No
+E0214,P0011,P0050,Family,Weak,2020-10-13,2024-03-14,Social Media,Yes
+E0215,P0087,P0075,Courier,Moderate,2022-07-27,2024-05-21,Informant,No
+E0216,P0016,P0075,Known Associate,Weak,2020-09-28,2024-04-22,Informant,Yes
+E0217,P0057,P0058,Financier,Moderate,2022-01-09,2024-03-29,Social Media,Yes
+E0219,P0014,P0088,Co-accused,Moderate,2022-02-21,2024-03-31,Call Analysis,Yes
+E0220,P0052,P0022,Financier,Weak,2021-11-17,2023-07-03,Financial Link,No
+E0221,P0030,P0098,Courier,Weak,2020-06-15,2024-05-02,Court Record,No
+E0222,P0026,P0085,Contact,Moderate,2021-05-26,2024-04-09,Court Record,Yes
+E0223,P0062,P0046,Business Partner,Weak,2020-06-08,2023-12-01,Social Media,No
+E0224,P0049,P0019,Family,Moderate,2020-05-28,2023-07-30,Social Media,No
+E0225,P0033,P0061,Contact,Strong,2021-11-19,2023-11-03,Court Record,No
+E0226,P0007,P0057,Handler,Moderate,2021-05-19,2023-08-06,CCTV Co-location,Yes
+E0227,P0014,P0024,Co-accused,Moderate,2021-09-05,2024-02-21,Court Record,Yes
+E0228,P0083,P0070,Financier,Weak,2022-02-07,2024-02-13,Informant,No
+E0229,P0020,P0093,Family,Moderate,2021-06-28,2024-04-16,CCTV Co-location,Yes
+E0230,P0092,P0044,Financier,Strong,2020-02-03,2023-08-18,Informant,Yes
+E0231,P0002,P0016,Courier,Weak,2021-10-23,2024-01-09,Informant,No
+E0233,P0062,P0066,Contact,Strong,2020-05-09,2023-05-16,Financial Link,Yes
+E0234,P0094,P0096,Known Associate,Strong,2022-08-18,2023-08-31,CCTV Co-location,Yes
+E0235,P0052,P0067,Financier,Moderate,2021-06-02,2023-06-05,Social Media,Yes
+E0236,P0045,P0028,Family,Strong,2021-10-02,2023-10-18,Informant,Yes
+E0237,P0064,P0089,Contact,Moderate,2020-07-16,2024-03-08,Social Media,Yes
+E0238,P0063,P0037,Handler,Strong,2022-03-18,2023-05-02,Court Record,Yes
+E0239,P0014,P0085,Courier,Weak,2020-02-05,2023-01-13,CCTV Co-location,Yes
+E0240,P0027,P0047,Co-accused,Moderate,2020-08-05,2023-01-02,Call Analysis,Yes
+E0241,P0086,P0061,Family,Strong,2022-07-03,2024-03-18,Call Analysis,Yes
+E0242,P0092,P0088,Handler,Moderate,2021-03-30,2023-01-20,Call Analysis,No
+E0243,P0090,P0059,Co-accused,Moderate,2020-06-28,2024-01-04,Financial Link,Yes
+E0244,P0036,P0097,Known Associate,Strong,2020-06-23,2023-05-25,Social Media,Yes
+E0245,P0032,P0026,Family,Strong,2021-08-29,2023-09-04,Social Media,Yes
+E0246,P0016,P0097,Family,Strong,2022-10-03,2023-12-27,Financial Link,Yes
+E0247,P0039,P0014,Known Associate,Strong,2022-05-05,2023-01-19,Call Analysis,Yes
+E0248,P0055,P0081,Contact,Moderate,2021-12-02,2024-06-09,Informant,Yes
+E0249,P0067,P0073,Handler,Weak,2020-03-01,2024-01-28,Financial Link,Yes
+E0250,P0069,P0059,Known Associate,Strong,2020-03-04,2023-06-14,Social Media,Yes
+E0251,P0045,P0025,Courier,Moderate,2021-10-13,2023-06-02,Financial Link,Yes
+E0252,P0041,P0025,Handler,Strong,2020-05-07,2023-08-28,Call Analysis,Yes
+E0253,P0046,P0014,Financier,Moderate,2020-08-24,2024-02-05,Call Analysis,No
+E0256,P0059,P0020,Co-accused,Strong,2020-01-31,2023-10-23,CCTV Co-location,Yes
+E0257,P0070,P0047,Family,Moderate,2020-05-23,2023-03-21,Financial Link,No
+E0258,P0026,P0084,Financier,Weak,2021-06-16,2024-03-22,Financial Link,Yes
+E0259,P0038,P0060,Courier,Moderate,2021-07-21,2023-11-27,CCTV Co-location,No
+E0260,P0094,P0059,Courier,Weak,2020-01-04,2024-03-11,Social Media,Yes
+E0261,P0091,P0083,Handler,Strong,2022-03-10,2024-05-11,Financial Link,Yes
+E0262,P0003,P0087,Known Associate,Weak,2022-09-04,2024-02-06,Call Analysis,Yes
+E0263,P0034,P0026,Known Associate,Moderate,2021-09-13,2023-03-27,Informant,Yes
+E0264,P0087,P0024,Financier,Moderate,2020-09-02,2023-10-27,CCTV Co-location,No
+E0265,P0066,P0043,Family,Weak,2021-01-06,2023-01-16,Social Media,Yes
+E0266,P0002,P0014,Family,Weak,2022-02-14,2023-09-09,Social Media,No
+E0267,P0006,P0002,Business Partner,Strong,2020-03-02,2024-04-03,Court Record,Yes
+E0268,P0073,P0035,Co-accused,Moderate,2020-01-01,2023-08-06,Social Media,Yes
+E0269,P0055,P0087,Family,Moderate,2022-08-30,2023-03-09,Social Media,Yes
+E0270,P0023,P0077,Contact,Weak,2021-01-23,2023-09-24,CCTV Co-location,Yes
+E0271,P0087,P0048,Known Associate,Strong,2020-03-29,2023-06-25,CCTV Co-location,Yes
+E0272,P0052,P0086,Handler,Strong,2021-02-28,2024-04-27,CCTV Co-location,Yes
+E0273,P0020,P0042,Contact,Moderate,2022-11-11,2023-08-15,Call Analysis,Yes
+E0274,P0083,P0017,Business Partner,Moderate,2021-10-19,2023-07-29,Social Media,Yes
+E0275,P0026,P0031,Known Associate,Weak,2021-03-18,2023-02-07,Call Analysis,No
+E0276,P0028,P0071,Courier,Strong,2022-11-18,2023-06-16,Financial Link,Yes
+E0277,P0060,P0023,Co-accused,Moderate,2022-05-10,2023-04-13,Call Analysis,No
+E0278,P0037,P0025,Courier,Weak,2021-08-02,2024-05-17,CCTV Co-location,Yes
+E0279,P0018,P0076,Contact,Strong,2020-11-02,2023-09-11,CCTV Co-location,Yes
+E0280,P0027,P0010,Handler,Moderate,2021-09-22,2024-02-04,Social Media,Yes
+E0281,P0039,P0066,Co-accused,Moderate,2022-03-13,2023-07-24,CCTV Co-location,Yes
+E0282,P0013,P0056,Family,Weak,2022-08-24,2024-04-13,Call Analysis,Yes
+E0283,P0070,P0095,Courier,Strong,2022-03-14,2024-01-11,CCTV Co-location,Yes
+E0284,P0051,P0047,Family,Weak,2020-10-25,2023-07-22,CCTV Co-location,Yes
+E0285,P0093,P0039,Business Partner,Moderate,2020-03-10,2024-04-27,Informant,Yes
+E0286,P0033,P0019,Business Partner,Strong,2020-02-16,2023-11-22,CCTV Co-location,Yes
+E0287,P0043,P0096,Business Partner,Weak,2022-06-25,2023-04-13,Social Media,Yes
+E0288,P0091,P0034,Contact,Strong,2020-11-01,2023-06-07,Social Media,Yes
+E0289,P0008,P0092,Family,Moderate,2022-07-02,2024-01-16,Court Record,No
+E0290,P0100,P0042,Business Partner,Strong,2020-12-22,2024-06-10,Social Media,No
+E0291,P0087,P0020,Business Partner,Moderate,2022-06-07,2024-03-15,Call Analysis,Yes
+E0292,P0069,P0031,Handler,Moderate,2022-12-11,2024-03-16,Financial Link,Yes
+E0293,P0036,P0055,Business Partner,Strong,2022-03-22,2023-05-02,CCTV Co-location,No
+E0294,P0083,P0007,Business Partner,Strong,2022-04-22,2023-01-23,CCTV Co-location,Yes
+E0295,P0031,P0042,Family,Strong,2020-01-27,2024-05-25,Social Media,Yes
+E0296,P0009,P0013,Handler,Weak,2022-08-08,2024-03-17,Informant,Yes
+E0297,P0030,P0039,Contact,Weak,2020-03-10,2024-06-02,Financial Link,Yes
+E0298,P0025,P0062,Handler,Strong,2022-04-19,2023-10-17,Informant,Yes
+E0299,P0018,P0085,Financier,Weak,2022-07-05,2023-09-24,Informant,Yes
+E0300,P0022,P0012,Co-accused,Strong,2021-03-19,2023-11-23,Social Media,Yes
+E0301,P0002,P0010,Courier,Strong,2021-06-05,2024-03-29,Call Analysis,Yes
+E0302,P0009,P0076,Known Associate,Moderate,2022-09-16,2023-12-01,Call Analysis,Yes
+E0303,P0059,P0010,Handler,Moderate,2020-02-21,2023-07-16,CCTV Co-location,Yes
+E0305,P0041,P0081,Courier,Moderate,2021-02-16,2023-04-26,Court Record,Yes
+E0306,P0099,P0007,Business Partner,Moderate,2022-02-25,2024-01-30,Call Analysis,Yes
+E0307,P0057,P0079,Business Partner,Strong,2020-09-28,2024-02-29,Call Analysis,Yes
+E0308,P0036,P0005,Financier,Moderate,2020-06-18,2023-01-06,Financial Link,No
+E0309,P0026,P0039,Business Partner,Weak,2020-04-30,2023-09-06,Financial Link,Yes
+E0310,P0082,P0044,Co-accused,Strong,2021-01-21,2023-04-24,Court Record,Yes
+E0311,P0040,P0093,Known Associate,Weak,2020-07-09,2024-03-19,CCTV Co-location,No
+E0312,P0065,P0013,Business Partner,Moderate,2022-09-03,2023-04-03,Financial Link,Yes
+E0313,P0087,P0057,Financier,Weak,2022-06-25,2023-05-29,Social Media,Yes
+E0314,P0050,P0031,Courier,Strong,2020-09-30,2023-09-25,Social Media,Yes
+E0315,P0064,P0097,Known Associate,Strong,2022-10-06,2023-04-17,Financial Link,Yes
+E0316,P0012,P0088,Financier,Strong,2022-11-20,2023-06-22,CCTV Co-location,Yes
+E0317,P0069,P0038,Co-accused,Moderate,2021-01-11,2023-04-06,Court Record,Yes
+E0318,P0021,P0013,Known Associate,Strong,2022-12-11,2023-06-22,Social Media,Yes
+E0319,P0034,P0045,Handler,Moderate,2020-03-30,2023-11-24,CCTV Co-location,Yes
+E0320,P0027,P0023,Business Partner,Weak,2021-10-18,2024-01-03,Court Record,Yes
+E0321,P0025,P0019,Handler,Moderate,2021-03-16,2023-07-07,Financial Link,Yes
+E0322,P0060,P0066,Business Partner,Weak,2021-11-07,2023-01-31,Social Media,No
+E0323,P0072,P0089,Handler,Strong,2020-04-17,2023-03-26,Informant,No
+E0324,P0060,P0021,Co-accused,Weak,2022-04-03,2023-09-08,CCTV Co-location,Yes
+E0325,P0095,P0006,Contact,Weak,2022-11-16,2024-01-18,Call Analysis,Yes
+E0326,P0028,P0037,Co-accused,Moderate,2022-05-18,2024-05-03,Social Media,Yes
+E0327,P0010,P0045,Handler,Strong,2020-01-13,2023-11-05,Informant,Yes
+E0328,P0057,P0036,Financier,Moderate,2022-04-19,2023-07-20,Informant,No
+E0329,P0098,P0005,Business Partner,Strong,2022-09-19,2023-04-10,Court Record,Yes
+E0330,P0012,P0030,Family,Weak,2022-03-22,2023-07-13,CCTV Co-location,Yes
+E0332,P0013,P0023,Known Associate,Moderate,2020-10-31,2023-08-22,Informant,Yes
+E0333,P0070,P0099,Business Partner,Moderate,2022-06-18,2024-04-22,Informant,Yes
+E0334,P0037,P0017,Co-accused,Moderate,2022-12-22,2024-05-28,CCTV Co-location,Yes
+E0335,P0058,P0073,Family,Strong,2021-09-21,2024-04-16,CCTV Co-location,Yes
+E0336,P0021,P0026,Family,Weak,2021-03-02,2023-11-17,Court Record,Yes
+E0337,P0014,P0023,Co-accused,Weak,2020-01-12,2023-02-21,Call Analysis,Yes
+E0338,P0091,P0021,Handler,Strong,2021-04-27,2023-10-14,Call Analysis,No
+E0339,P0046,P0088,Known Associate,Weak,2020-06-20,2023-06-20,Call Analysis,Yes
+E0340,P0010,P0014,Family,Strong,2020-01-01,2023-12-18,Call Analysis,Yes
+E0341,P0053,P0048,Co-accused,Moderate,2022-03-21,2023-04-07,Court Record,Yes
+E0342,P0008,P0004,Business Partner,Moderate,2021-12-18,2023-05-13,Court Record,No
+E0343,P0051,P0002,Courier,Strong,2020-11-15,2023-03-31,Informant,No
+E0344,P0040,P0034,Contact,Strong,2020-02-03,2024-05-07,CCTV Co-location,No
+E0345,P0086,P0094,Financier,Weak,2020-10-11,2023-10-31,Social Media,No
+E0346,P0034,P0085,Contact,Moderate,2021-04-14,2023-05-04,Informant,Yes
+E0347,P0007,P0058,Courier,Strong,2021-08-14,2023-03-26,Court Record,Yes
+E0348,P0042,P0087,Contact,Weak,2020-05-29,2023-12-23,Financial Link,No
+E0349,P0045,P0007,Courier,Weak,2021-11-19,2023-11-01,Call Analysis,No
+E0350,P0091,P0056,Contact,Strong,2021-11-11,2023-08-16,Call Analysis,Yes
+E0351,P0039,P0041,Courier,Moderate,2021-12-07,2024-06-09,Court Record,Yes
+E0352,P0072,P0081,Courier,Weak,2020-10-05,2023-11-04,Court Record,Yes
+E0353,P0026,P0041,Family,Strong,2021-12-23,2023-04-02,Call Analysis,Yes
+E0354,P0060,P0034,Business Partner,Moderate,2020-10-19,2024-03-06,Court Record,No
+E0355,P0068,P0048,Known Associate,Weak,2021-11-26,2024-03-13,Court Record,Yes
+E0356,P0001,P0043,Co-accused,Weak,2020-05-11,2024-04-18,CCTV Co-location,Yes
+E0357,P0048,P0051,Co-accused,Strong,2022-12-23,2023-06-01,CCTV Co-location,Yes
+E0358,P0077,P0006,Known Associate,Strong,2022-06-27,2024-02-07,Call Analysis,No
+E0359,P0080,P0057,Courier,Strong,2020-07-10,2023-08-15,Social Media,No
+E0360,P0015,P0003,Known Associate,Strong,2020-03-21,2024-05-26,Court Record,Yes
+E0361,P0005,P0023,Co-accused,Moderate,2021-11-12,2023-01-19,Call Analysis,No
+E0362,P0086,P0032,Business Partner,Strong,2020-02-13,2024-06-28,CCTV Co-location,Yes
+E0363,P0072,P0021,Financier,Strong,2021-07-09,2023-05-25,Financial Link,Yes
+E0364,P0066,P0082,Courier,Moderate,2020-09-15,2023-02-24,Informant,Yes
+E0365,P0038,P0067,Courier,Weak,2021-01-03,2023-12-29,Informant,Yes
+E0366,P0061,P0066,Business Partner,Weak,2022-03-05,2023-02-24,Court Record,No
+E0367,P0057,P0020,Contact,Weak,2020-12-18,2024-05-27,CCTV Co-location,Yes
+E0368,P0100,P0064,Contact,Strong,2022-09-01,2023-10-01,Social Media,Yes
+E0369,P0096,P0001,Financier,Weak,2021-01-04,2024-06-20,Informant,Yes
+E0370,P0077,P0068,Known Associate,Moderate,2020-10-28,2024-02-23,Call Analysis,Yes
+E0371,P0044,P0062,Courier,Strong,2020-11-22,2024-03-22,Informant,Yes
+E0372,P0067,P0023,Handler,Weak,2022-08-02,2024-05-28,Court Record,Yes
+E0373,P0065,P0006,Handler,Weak,2022-12-14,2024-05-16,Social Media,No
+E0374,P0077,P0021,Financier,Strong,2022-12-11,2024-02-09,Informant,No
+E0375,P0020,P0089,Handler,Weak,2022-01-02,2023-10-23,Call Analysis,No
+E0376,P0047,P0061,Business Partner,Moderate,2022-06-12,2023-06-24,Informant,No
+E0377,P0049,P0060,Known Associate,Strong,2020-10-07,2024-01-04,Informant,Yes
+E0378,P0098,P0045,Financier,Moderate,2020-05-15,2023-09-27,Informant,Yes
+E0379,P0078,P0076,Co-accused,Weak,2021-07-04,2023-07-24,Call Analysis,No
+E0380,P0077,P0045,Co-accused,Weak,2020-07-29,2023-08-31,Call Analysis,No
+E0381,P0047,P0088,Co-accused,Weak,2021-10-31,2024-06-07,Court Record,Yes
+E0382,P0099,P0048,Handler,Strong,2021-03-03,2023-08-25,Court Record,No
+E0383,P0072,P0006,Courier,Moderate,2020-08-10,2023-04-17,Informant,Yes
+E0384,P0023,P0047,Business Partner,Strong,2022-05-22,2024-04-22,Court Record,Yes
+E0385,P0086,P0053,Courier,Strong,2022-08-29,2023-04-14,Informant,No
+E0386,P0047,P0094,Known Associate,Moderate,2020-04-03,2024-04-12,Court Record,Yes
+E0388,P0014,P0032,Co-accused,Moderate,2022-08-21,2023-09-24,Court Record,No
+E0389,P0075,P0047,Family,Weak,2021-08-31,2023-11-10,Call Analysis,No
+E0390,P0046,P0081,Family,Weak,2022-05-28,2023-02-07,Financial Link,Yes
+E0392,P0084,P0092,Handler,Weak,2022-02-09,2023-08-27,CCTV Co-location,No
+E0393,P0052,P0011,Financier,Strong,2022-05-27,2023-11-24,Social Media,No
+E0394,P0061,P0078,Co-accused,Moderate,2020-03-04,2023-09-20,Social Media,Yes
+E0395,P0078,P0095,Co-accused,Strong,2021-06-25,2023-03-15,Financial Link,Yes
+E0396,P0003,P0057,Contact,Weak,2021-04-13,2023-07-14,Call Analysis,Yes
+E0397,P0036,P0009,Business Partner,Strong,2020-11-02,2024-02-01,Court Record,Yes
+E0398,P0056,P0089,Family,Moderate,2022-12-16,2023-06-21,Court Record,No
+E0399,P0011,P0061,Contact,Moderate,2021-07-13,2024-02-13,Informant,Yes
+E0400,P0100,P0044,Contact,Moderate,2020-12-11,2023-01-01,CCTV Co-location,Yes

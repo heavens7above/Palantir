@@ -1,0 +1,101 @@
+person_id,full_name,alias,dob,gender,nationality,occupation,city,state,national_id,risk_score,known_associate_count,flagged
+P0001,Rohit Verma,R. Verma,1972-05-03,M,Indian,Shopkeeper,Bangalore,Maharashtra,XXXX-XXXX-9935,0.087,13,Yes
+P0002,Arjun Singh,A. Singh,1982-09-01,F,Indian,Businessman,Lucknow,Telangana,XXXX-XXXX-9928,0.42,14,No
+P0003,Rajesh Kumar,,1967-02-28,F,Indian,Government Employee,Chennai,Karnataka,XXXX-XXXX-4527,0.957,10,Yes
+P0004,Rahul Chauhan,R. Chauhan,1998-01-06,M,Indian,Farmer,Chennai,Delhi,XXXX-XXXX-8527,0.536,12,Yes
+P0005,Geeta Nair,,1987-09-29,M,Indian,Farmer,Hyderabad,Maharashtra,XXXX-XXXX-1750,0.661,9,Yes
+P0006,Anita Verma,Sanjay Verma,1988-07-07,M,Indian,Driver,Kolkata,West Bengal,XXXX-XXXX-4432,0.67,2,No
+P0007,Rohit Patel,,1970-12-24,M,Indian,Unemployed,Pune,Tamil Nadu,XXXX-XXXX-4598,0.685,1,Yes
+P0008,Priya Iyer,Rahul Iyer,1969-06-18,F,Indian,Government Employee,Hyderabad,UP,XXXX-XXXX-7482,0.885,14,Yes
+P0009,Rajesh Gupta,R. Gupta,1985-03-07,F,Indian,Student,Surat,Gujarat,XXXX-XXXX-8019,0.898,12,No
+P0010,Anita Gupta,,1964-01-29,M,Indian,Accountant,Bangalore,Karnataka,XXXX-XXXX-7916,0.596,12,No
+P0011,Lata Tiwari,,1984-10-25,M,Indian,Accountant,Bhopal,MP,XXXX-XXXX-5371,0.769,10,Yes
+P0012,Kavita Mishra,K. Mishra,1960-02-23,M,Indian,Trader,Nagpur,Karnataka,XXXX-XXXX-9317,0.913,9,No
+P0013,Lata Joshi,L. Joshi,1994-03-15,M,Indian,Trader,Nagpur,MP,XXXX-XXXX-1009,0.599,15,Yes
+P0014,Sunita Reddy,,1997-04-22,M,Indian,Shopkeeper,Delhi,Telangana,XXXX-XXXX-2290,0.086,15,Yes
+P0015,Nikhil Gupta,N. Gupta,1981-04-27,F,Indian,Driver,Chennai,MP,XXXX-XXXX-7932,0.964,6,No
+P0016,Amit Reddy,Anil Reddy,1980-04-02,M,Indian,Shopkeeper,Hyderabad,Maharashtra,XXXX-XXXX-6539,0.021,7,No
+P0017,Anita Kumar,A. Kumar,1988-04-22,M,Indian,Shopkeeper,Mumbai,Delhi,XXXX-XXXX-6413,0.071,7,No
+P0018,Smita Shah,S. Shah,1965-12-07,F,Indian,Farmer,Jaipur,Telangana,XXXX-XXXX-8749,0.807,6,Yes
+P0019,Sunita Mishra,Nisha Mishra,1980-12-12,M,Indian,Accountant,Delhi,Rajasthan,XXXX-XXXX-6559,0.801,3,Yes
+P0020,Deepak Joshi,,1966-04-15,F,Indian,Driver,Chennai,UP,XXXX-XXXX-5092,0.874,2,No
+P0021,Geeta Verma,G. Verma,1984-03-31,M,Indian,Accountant,Nagpur,Telangana,XXXX-XXXX-3724,0.406,15,Yes
+P0022,Amit Sharma,A. Sharma,1960-02-05,F,Indian,Student,Nagpur,UP,XXXX-XXXX-5673,0.423,15,Yes
+P0023,Deepak Nair,D. Nair,1962-08-16,F,Indian,Trader,Delhi,West Bengal,XXXX-XXXX-1936,0.05,15,No
+P0024,Anil Patel,A. Patel,1982-10-12,M,Indian,Driver,Mumbai,Gujarat,XXXX-XXXX-2113,0.675,7,No
+P0025,Sunita Rao,,1961-10-13,F,Indian,Accountant,Pune,Gujarat,XXXX-XXXX-9565,0.316,8,Yes
+P0026,Smita Iyer,S. Iyer,1977-10-02,M,Indian,Student,Jaipur,West Bengal,XXXX-XXXX-2188,0.009,3,Yes
+P0027,Geeta Joshi,,1965-12-10,M,Indian,Accountant,Hyderabad,West Bengal,XXXX-XXXX-5669,0.158,9,No
+P0028,Rohit Kumar,,1984-11-16,M,Indian,Accountant,Bangalore,Tamil Nadu,XXXX-XXXX-2891,0.89,4,No
+P0029,Kavita Joshi,,1969-02-17,M,Indian,Trader,Jaipur,Tamil Nadu,XXXX-XXXX-1832,0.092,13,No
+P0030,Priya Kumar,Vikram Kumar,1988-07-30,M,Indian,Driver,Surat,UP,XXXX-XXXX-8007,0.561,3,Yes
+P0031,Karan Gupta,,1997-06-09,M,Indian,Farmer,Lucknow,Karnataka,XXXX-XXXX-8041,0.127,9,No
+P0032,Priya Reddy,P. Reddy,1971-03-12,M,Indian,Government Employee,Nagpur,MP,XXXX-XXXX-7658,0.974,4,Yes
+P0033,Meena Patel,,1961-02-10,M,Indian,Government Employee,Nagpur,Rajasthan,XXXX-XXXX-5065,0.267,3,No
+P0034,Priya Shah,P. Shah,1996-08-17,F,Indian,Government Employee,Chennai,Telangana,XXXX-XXXX-4652,0.024,6,No
+P0035,Suresh Mehta,,1994-09-09,M,Indian,Government Employee,Bhopal,MP,XXXX-XXXX-7548,0.68,10,Yes
+P0036,Sunita Mehta,S. Mehta,1971-11-28,M,Indian,Accountant,Ahmedabad,Rajasthan,XXXX-XXXX-6663,0.729,10,No
+P0037,Lata Verma,Mohan Verma,1968-07-11,M,Indian,Businessman,Surat,Rajasthan,XXXX-XXXX-1027,0.52,6,No
+P0038,Nisha Singh,,2001-04-20,M,Indian,Farmer,Kolkata,Maharashtra,XXXX-XXXX-5920,0.507,13,No
+P0039,Amit Nair,,1968-08-09,F,Indian,Contractor,Bhopal,Karnataka,XXXX-XXXX-5930,0.406,0,No
+P0040,Kavita Joshi,Mohan Joshi,1987-03-19,M,Indian,Unemployed,Jaipur,UP,XXXX-XXXX-4501,0.511,5,Yes
+P0041,Kavita Iyer,K. Iyer,2002-09-14,M,Indian,Student,Hyderabad,Telangana,XXXX-XXXX-3414,0.024,7,No
+P0042,Lata Singh,Rohit Singh,1985-10-27,M,Indian,Contractor,Jaipur,Rajasthan,XXXX-XXXX-4997,0.148,0,Yes
+P0043,Nikhil Mishra,N. Mishra,1996-01-26,F,Indian,Unemployed,Delhi,MP,XXXX-XXXX-5082,0.917,3,No
+P0044,Vikram Tiwari,,1985-01-26,F,Indian,Government Employee,Nagpur,UP,XXXX-XXXX-9270,0.427,14,Yes
+P0045,Divya Shah,Nikhil Shah,1971-02-02,M,Indian,Trader,Jaipur,Telangana,XXXX-XXXX-5499,0.44,9,Yes
+P0046,Rajesh Iyer,Geeta Iyer,1963-08-13,M,Indian,Driver,Hyderabad,Rajasthan,XXXX-XXXX-3503,0.706,2,No
+P0047,Nisha Iyer,,1978-08-26,M,Indian,Shopkeeper,Indore,Rajasthan,XXXX-XXXX-7381,0.905,0,No
+P0048,Amit Shah,A. Shah,1975-10-12,M,Indian,Contractor,Indore,Rajasthan,XXXX-XXXX-9818,0.748,7,No
+P0049,Anita Mehta,Arjun Mehta,1977-06-11,M,Indian,Contractor,Surat,Karnataka,XXXX-XXXX-8657,0.92,0,No
+P0050,Mohan Kumar,M. Kumar,1979-03-24,M,Indian,Unemployed,Bangalore,Delhi,XXXX-XXXX-5262,0.379,6,No
+P0051,Suresh Iyer,,1977-01-02,M,Indian,Contractor,Chennai,Maharashtra,XXXX-XXXX-8705,0.019,1,No
+P0052,Anita Singh,,1989-03-27,M,Indian,Businessman,Hyderabad,Telangana,XXXX-XXXX-1333,0.621,7,Yes
+P0053,Rekha Verma,,1969-10-11,F,Indian,Student,Nagpur,West Bengal,XXXX-XXXX-3749,0.606,3,Yes
+P0054,Kavita Verma,,2001-08-31,M,Indian,Farmer,Bhopal,Rajasthan,XXXX-XXXX-7498,0.941,6,Yes
+P0055,Mohan Rao,M. Rao,1994-08-26,M,Indian,Farmer,Nagpur,Maharashtra,XXXX-XXXX-1672,0.347,13,No
+P0056,Rahul Iyer,R. Iyer,1978-11-04,F,Indian,Accountant,Pune,West Bengal,XXXX-XXXX-8532,0.707,13,Yes
+P0057,Divya Mehta,,2001-04-02,F,Indian,Unemployed,Jaipur,Rajasthan,XXXX-XXXX-5397,0.322,7,Yes
+P0058,Rajesh Tiwari,R. Tiwari,1980-11-04,F,Indian,Farmer,Bhopal,Rajasthan,XXXX-XXXX-6511,0.029,10,Yes
+P0059,Rekha Joshi,Rajesh Joshi,1975-04-08,M,Indian,Farmer,Surat,Tamil Nadu,XXXX-XXXX-1166,0.517,6,Yes
+P0060,Anita Mishra,Nikhil Mishra,1970-10-12,F,Indian,Unemployed,Jaipur,Delhi,XXXX-XXXX-2524,0.294,12,Yes
+P0061,Kavita Reddy,Anil Reddy,1975-06-03,F,Indian,Trader,Kolkata,West Bengal,XXXX-XXXX-8434,0.271,8,Yes
+P0062,Sunita Joshi,Divya Joshi,1984-01-14,M,Indian,Shopkeeper,Hyderabad,UP,XXXX-XXXX-5530,0.725,9,Yes
+P0063,Deepak Nair,D. Nair,1968-01-18,M,Indian,Businessman,Surat,MP,XXXX-XXXX-3073,0.274,1,No
+P0064,Kavita Gupta,,1993-10-07,F,Indian,Accountant,Indore,Delhi,XXXX-XXXX-5658,0.469,14,No
+P0065,Meena Sharma,M. Sharma,1998-08-27,F,Indian,Accountant,Indore,Maharashtra,XXXX-XXXX-7565,0.492,1,Yes
+P0066,Vikram Nair,V. Nair,1971-02-18,M,Indian,Trader,Nagpur,Rajasthan,XXXX-XXXX-4697,0.776,12,No
+P0067,Sanjay Nair,,1979-03-27,M,Indian,Farmer,Ahmedabad,Delhi,XXXX-XXXX-2625,0.948,6,Yes
+P0068,Rajesh Singh,R. Singh,1967-10-18,F,Indian,Accountant,Bangalore,Delhi,XXXX-XXXX-7693,0.451,15,No
+P0069,Priya Rao,P. Rao,1972-09-06,F,Indian,Accountant,Bhopal,Telangana,XXXX-XXXX-5334,0.788,6,No
+P0070,Sunita Rao,,2000-09-30,M,Indian,Driver,Mumbai,Delhi,XXXX-XXXX-3718,0.793,9,No
+P0071,Sunita Tiwari,,1991-05-22,F,Indian,Student,Lucknow,MP,XXXX-XXXX-9090,0.438,1,No
+P0072,Divya Iyer,,1961-02-27,M,Indian,Shopkeeper,Bhopal,Gujarat,XXXX-XXXX-1339,1.0,8,No
+P0073,Priya Patel,Rohit Patel,1979-11-02,M,Indian,Driver,Ahmedabad,Rajasthan,XXXX-XXXX-9056,0.969,15,No
+P0074,Nisha Iyer,Sunita Iyer,1998-06-23,M,Indian,Government Employee,Pune,UP,XXXX-XXXX-5722,0.663,12,No
+P0075,Priya Tiwari,P. Tiwari,1971-04-28,M,Indian,Accountant,Nagpur,Rajasthan,XXXX-XXXX-9431,0.825,0,No
+P0076,Sanjay Mishra,S. Mishra,1983-04-04,M,Indian,Farmer,Nagpur,UP,XXXX-XXXX-8242,0.76,6,No
+P0077,Geeta Gupta,,1979-08-27,F,Indian,Accountant,Delhi,Gujarat,XXXX-XXXX-4920,0.71,9,No
+P0078,Arjun Mishra,A. Mishra,1997-09-28,M,Indian,Unemployed,Mumbai,Karnataka,XXXX-XXXX-9165,0.933,9,No
+P0079,Karan Mehta,Rekha Mehta,1981-03-07,M,Indian,Unemployed,Lucknow,Karnataka,XXXX-XXXX-7284,0.191,4,Yes
+P0080,Rajesh Mishra,Anil Mishra,1971-12-26,M,Indian,Student,Surat,Tamil Nadu,XXXX-XXXX-9022,0.865,14,No
+P0081,Rekha Reddy,Nikhil Reddy,1984-05-17,F,Indian,Unemployed,Kolkata,Telangana,XXXX-XXXX-4912,0.572,7,No
+P0082,Priya Iyer,,1991-08-20,F,Indian,Contractor,Bhopal,Karnataka,XXXX-XXXX-9115,0.965,4,No
+P0083,Mohan Iyer,,1999-03-19,F,Indian,Accountant,Lucknow,UP,XXXX-XXXX-1251,0.722,13,Yes
+P0084,Rahul Shah,,1971-11-21,M,Indian,Farmer,Surat,Rajasthan,XXXX-XXXX-2315,0.852,12,No
+P0085,Rohit Shah,,1961-08-11,F,Indian,Accountant,Hyderabad,Tamil Nadu,XXXX-XXXX-4727,0.747,13,Yes
+P0086,Nikhil Verma,Karan Verma,1973-06-07,M,Indian,Businessman,Kolkata,Delhi,XXXX-XXXX-5806,0.358,13,Yes
+P0087,Anita Mishra,,1995-07-20,M,Indian,Driver,Bangalore,Maharashtra,XXXX-XXXX-7267,0.62,7,No
+P0088,Mohan Gupta,M. Gupta,1988-08-12,M,Indian,Unemployed,Chennai,Delhi,XXXX-XXXX-8622,0.901,5,Yes
+P0089,Sanjay Reddy,,1973-06-02,F,Indian,Student,Jaipur,Tamil Nadu,XXXX-XXXX-4263,0.999,15,Yes
+P0090,Anita Chauhan,,1985-10-13,M,Indian,Student,Delhi,Rajasthan,XXXX-XXXX-5497,0.008,1,No
+P0091,Divya Shah,,2000-07-02,M,Indian,Shopkeeper,Ahmedabad,West Bengal,XXXX-XXXX-4588,0.637,8,Yes
+P0092,Rohit Verma,,1988-12-28,M,Indian,Student,Nagpur,UP,XXXX-XXXX-1546,0.58,4,Yes
+P0093,Kavita Iyer,,1967-11-17,M,Indian,Driver,Nagpur,MP,XXXX-XXXX-6994,0.531,8,Yes
+P0094,Rajesh Shah,,1973-03-28,M,Indian,Accountant,Jaipur,Maharashtra,XXXX-XXXX-3306,0.754,7,No
+P0095,Geeta Reddy,G. Reddy,1977-09-12,M,Indian,Student,Lucknow,Maharashtra,XXXX-XXXX-8451,0.369,8,No
+P0096,Amit Reddy,A. Reddy,1970-06-27,F,Indian,Businessman,Ahmedabad,MP,XXXX-XXXX-6374,0.915,7,Yes
+P0097,Rohit Tiwari,,1973-07-22,F,Indian,Accountant,Bangalore,Delhi,XXXX-XXXX-1609,0.304,15,Yes
+P0098,Sunita Rao,,1966-01-31,F,Indian,Unemployed,Kolkata,MP,XXXX-XXXX-7866,0.587,4,No
+P0099,Rohit Verma,,1987-08-13,F,Indian,Student,Delhi,West Bengal,XXXX-XXXX-4559,0.443,7,No
+P0100,Sunita Reddy,,1988-12-03,M,Indian,Businessman,Pune,Tamil Nadu,XXXX-XXXX-4109,0.968,14,Yes
