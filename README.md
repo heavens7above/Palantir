@@ -1,7 +1,6 @@
 <div align="center">
   <img src="assets/logo.svg" width="100" alt="Palantir Icon">
   <br>
-  <img src="assets/hero.png" width="200" alt="Palantir Logo">
   <h1>Palantir</h1>
   <p><b>Mini Intelligence Platform</b></p>
 
@@ -16,6 +15,7 @@
 ---
 
 ### 🌐 Overview
+
 **Palantir** is a data integration and analytics system designed to uncover hidden relationships between entities like people, transactions, and locations. It transforms fragmented datasets into a connected network, making complex patterns visible and analyzable.
 
 <details>
@@ -35,12 +35,14 @@
 <summary><b>🧩 Entity Resolution & Data Integration</b></summary>
 
 Using fuzzy matching and similarity scoring, the platform merges records from disparate sources (Crime reports, Finance, Comms, Location) to create a single source of truth for every entity.
+
 </details>
 
 <details>
 <summary><b>🕸️ Graph-Based Modeling</b></summary>
 
 Data is modeled as a connected network (`Person → owns → Phone`, etc.), enabling discovery of hidden networks that traditional tables might miss.
+
 </details>
 
 <details>
@@ -54,19 +56,20 @@ Data is modeled as a connected network (`Person → owns → Phone`, etc.), enab
 <summary><b>👁️ Interactive Visualization</b></summary>
 
 Explore data visually. Search nodes, filter by time/location, and investigate relationship paths between entities in real-time.
+
 </details>
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Backend** | Python, FastAPI / Flask |
-| **Processing** | Pandas, NumPy |
-| **ML & Graph** | Scikit-learn, NetworkX |
-| **Databases** | PostgreSQL, Neo4j |
-| **Frontend** | React, D3.js / Cytoscape |
+| Layer          | Technologies             |
+| :------------- | :----------------------- |
+| **Backend**    | Python, FastAPI / Flask  |
+| **Processing** | Pandas, NumPy            |
+| **ML & Graph** | Scikit-learn, NetworkX   |
+| **Databases**  | PostgreSQL, Neo4j        |
+| **Frontend**   | React, D3.js / Cytoscape |
 
 ---
 
@@ -86,6 +89,7 @@ mini-intelligence-platform/
 ---
 
 ### 🔮 Future Roadmap
+
 - [ ] ⚡ Real-time streaming data ingestion.
 - [ ] 🤖 NLP for automated entity extraction from text.
 - [ ] ⏳ Temporal graph analysis for evolving networks.
