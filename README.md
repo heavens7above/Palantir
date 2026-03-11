@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.svg" width="100" alt="Palantir Icon">
+  <img src="frontend/assets/logo.svg" width="100" alt="Palantir Icon">
   <br>
   <h1>Palantir</h1>
   <p><b>Mini Intelligence Platform</b></p>
